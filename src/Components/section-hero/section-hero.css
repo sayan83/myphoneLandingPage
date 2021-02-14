@@ -1,0 +1,15 @@
+#video-hero{
+    height: var(--hero-video-height);
+    width: var(--hero-video-width);
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.hero-wrapper{
+}
+
+.hero-text{
+    text-align: center;
+    color: white;
+    /*border: 1px solid green;*/
+}

@@ -1,0 +1,17 @@
+/* CSS Variables for entire project */
+:root{
+  --top-header-font-size: 15px;
+  --top-header-height: 15px;
+  --header-height: 35px;
+  --hero-video-height: 85vh;
+  --hero-video-width: auto;
+
+}
+
+
+
+
+.App {
+  background-color: #1e1d1e;
+  height: 100%;
+}
